@@ -18,7 +18,7 @@ The app uses a trained machine learning model to analyze input features such as:
 
 Based on these values, the system predicts whether the risk level is low, moderate, or high.
 
-> This application is intended for educational and demonstration purposes only and should not be used as a medical diagnosis.
+
 
 ## Tech Stack
 
